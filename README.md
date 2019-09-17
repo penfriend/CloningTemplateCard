@@ -1,1 +1,1 @@
-# CloningTemplateCard
+# CloningTemplateRepo

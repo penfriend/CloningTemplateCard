@@ -1,0 +1,6 @@
+.repo__links{
+    display: flex;
+}
+.repo__link{
+    margin-right: 10px;
+}
